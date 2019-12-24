@@ -7,6 +7,8 @@
 ### 团队主要成员：
 > - Dfkuaid
 > - zythonc
+### 最新赛事公告：
+> - ```暂无```
 
 ---
 #### 某谷团队：[Abs-fr](https://www.luogu.com.cn/team/23474)
