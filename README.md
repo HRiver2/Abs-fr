@@ -9,7 +9,7 @@
 > - 题解会以.pdf的形式上传，并附有.cpp格式的代码
 > - 题解会随**时间**的推移进行**整合**
 
-如果您已加入团队，且想上传题解，请参考[团队题解提交的要求]([https://github.com/Dfkuaid/Abs-fr/blob/master/%E5%9B%A2%E9%98%9F%E9%A2%98%E8%A7%A3%E6%8F%90%E4%BA%A4%E7%9A%84%E8%A6%81%E6%B1%82.md](https://github.com/Dfkuaid/Abs-fr/blob/master/团队题解提交的要求.md))
+如果您已加入团队，且想上传题解，请参考[团队题解提交的要求](https://github.com/Dfkuaid/Abs-fr/blob/master/团队题解提交的要求.md)
 
 ---
 
