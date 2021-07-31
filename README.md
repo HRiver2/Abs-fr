@@ -1,4 +1,4 @@
-Forked from Dfkuaid/Abs-fr
+> Forked from Dfkuaid/Abs-fr , but Dfkuaid had remove it.
 
 # Abs-fr官方比赛的题解及代码
 
