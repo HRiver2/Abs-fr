@@ -1,4 +1,6 @@
 > Forked from Dfkuaid/Abs-fr , but Dfkuaid had remove it.
+> 
+> **从 [Dfkuaid](https://github.com/Dfkuaid) 处 Fork 来的，作为 [Dfkuaid](https://github.com/Dfkuaid) 黑历史保存**（
 
 # Abs-fr官方比赛的题解及代码
 
